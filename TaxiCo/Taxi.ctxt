@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Taxi
+comment0.text=\r\n\ A\ taxi.\r\n\ Taxis\ have\ a\ unique\ ID,\ a\ location\ and\ sometimes\ a\ destination.\r\n\ They\ are\ either\ free\ or\ occupied.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ \r\n\ @version\ 2010.12.03\r\n
+comment1.params=base\ id
+comment1.target=Taxi(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Taxi.\r\n\ @param\ base\ The\ name\ of\ the\ company's\ base.\r\n\ @param\ id\ This\ taxi's\ unique\ id.\r\n
+comment2.params=destination
+comment2.target=void\ book(java.lang.String)
+comment2.text=\r\n\ Book\ this\ taxi\ to\ the\ given\ destination.\r\n\ The\ status\ of\ the\ taxi\ will\ no\ longer\ be\ free.\r\n\ @param\ destination\ The\ taxi's\ destination.\r\n
+comment3.params=
+comment3.target=void\ arrived()
+comment3.text=\r\n\ Indicate\ that\ this\ taxi\ has\ arrived\ at\ its\ destination.\r\n\ As\ a\ result,\ it\ will\ be\ free.\r\n
+numComments=4
