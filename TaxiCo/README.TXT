@@ -15,5 +15,4 @@ HOW TO START THIS PROJECT:
     The showStatus method lists the vehicles in the fleet.
     The getTaxi method allows a Taxi to be looked up and placed on the
     object bench if required.
-AUTHORS: Judson Cabral de Melo
-USER INSTRUCTIONS:
+
